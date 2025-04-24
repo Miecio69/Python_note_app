@@ -12,7 +12,10 @@ To get help type -h or </ command /> -h for better info about single command
 -note.py simply is a object class holding all notes parameters
 -noteMethods.py holds all methods to add new notes, delete them and list all
 -main.py is where all the argparser methods exist making a interface for a user - also sets the location of where all notes are stored
+-helpClass self-made class to remake on my own the argparser module
 
 ***Plans for futere***
 Search by tags
 Add .exe file to make it standalone program
+Finish helpClass 
+
