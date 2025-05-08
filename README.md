@@ -8,6 +8,8 @@ Usage example:
   </ python main.py delete "Shopping list" />
 - To list all notes type:
   </ python main.py list />
+  ![obraz](https://github.com/user-attachments/assets/18aebcf6-9b9c-4247-b018-a0ffb119dd09)
+
 
 To get help type -h or </ command /> -h for better info about single command
 
