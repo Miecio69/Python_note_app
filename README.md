@@ -19,8 +19,7 @@ To get help type -h or </ command /> -h for better info about single command
   - also sets the location of where all notes are stored
 - helpClass self-made class to remake on my own the argparser module
 
-***Plans for futere***
+***Plans for future***
 - Search by tags
-- Add .exe file to make it standalone program
 - Finish helpClass 
 
