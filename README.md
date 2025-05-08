@@ -4,12 +4,11 @@ Adds the notes by addign a new folder on the desktop 'MyNotesApp' and then folde
 Usage example:
 - To add new note simple type in programs folder:
   </ python main.py add "Shopping list" "Buy milk and egs for tomorow" --priority 1 --tags shop, breakfast />
+  ![obraz](https://github.com/user-attachments/assets/18aebcf6-9b9c-4247-b018-a0ffb119dd09)
 - To delete a note simply type:
   </ python main.py delete "Shopping list" />
 - To list all notes type:
   </ python main.py list />
-  ![obraz](https://github.com/user-attachments/assets/18aebcf6-9b9c-4247-b018-a0ffb119dd09)
-
 
 To get help type -h or </ command /> -h for better info about single command
 
